@@ -5,7 +5,7 @@ AI learns to predict the trend and the exact time of seling out / buying out the
 
 PANDAS and SCI-KIT LEARN was used to develop a linear regression model to predict stock price. D3 and REACT were used to plot the data and update the leaderboard. Optimized for desktop and mobile.
 
->>>http://www.StockIT.tech<<<
+>>>http://www.StockIT.tech
 
 ## built with
 React
